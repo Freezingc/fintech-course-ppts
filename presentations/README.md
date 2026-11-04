@@ -6,6 +6,6 @@ This directory contains FinTech course presentation slides and optional PDFs wit
 
 Name your file `Topic_Name-or-Group.pptx`, for example `Digital-RMB_Group1.pptx`. Chinese filenames are also welcome.
 
-No presentations have been added yet.
+Browse the files in this directory or use the presentation index linked below to find a topic.
 
 [Upload guide](../CONTRIBUTING.md) · [Presentation index](../README.md#presentation-index)

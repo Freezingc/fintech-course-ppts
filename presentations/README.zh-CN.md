@@ -6,6 +6,6 @@
 
 文件命名为 `汇报主题_姓名或组号.pptx`，例如 `数字人民币_第1组.pptx`。
 
-目前还没有收录汇报资料。
+已收录的汇报文件可通过下方目录链接或首页索引查阅。
 
 [浏览文件目录](https://github.com/soxee1/fintech-course-ppts/tree/main/presentations) · [上传指南](../CONTRIBUTING.zh-CN.md) · [汇报索引](../README.zh-CN.md#presentation-index)
